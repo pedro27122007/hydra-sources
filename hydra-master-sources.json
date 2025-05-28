@@ -1,14 +1,44 @@
 {
   "sources": [
-    "https://hydralinks.pages.dev/sources/atop-games.json",
-    "https://hydralinks.pages.dev/sources/steamrip.json",
-    "https://hydralinks.pages.dev/sources/dodi.json",
-    "https://hydralinks.pages.dev/sources/empress.json",
-    "https://hydralinks.pages.dev/sources/fitgirl.json",
-    "https://hydralinks.pages.dev/sources/kaoskrew.json",
-    "https://hydralinks.pages.dev/sources/onlinefix.json",
-    "https://hydralinks.pages.dev/sources/tinyrepacks.json",
-    "https://hydralinks.pages.dev/sources/xatab.json",
-    "https://raw.githubusercontent.com/KekitU/rutracker-hydra-links/main/all_categories.json"
+    {
+      "name": "Atop Games",
+      "url": "https://hydralinks.pages.dev/sources/atop-games.json"
+    },
+    {
+      "name": "SteamRip",
+      "url": "https://hydralinks.pages.dev/sources/steamrip.json"
+    },
+    {
+      "name": "DODI",
+      "url": "https://hydralinks.pages.dev/sources/dodi.json"
+    },
+    {
+      "name": "EMPRESS",
+      "url": "https://hydralinks.pages.dev/sources/empress.json"
+    },
+    {
+      "name": "FitGirl",
+      "url": "https://hydralinks.pages.dev/sources/fitgirl.json"
+    },
+    {
+      "name": "KaOs Krew",
+      "url": "https://hydralinks.pages.dev/sources/kaoskrew.json"
+    },
+    {
+      "name": "OnlineFix",
+      "url": "https://hydralinks.pages.dev/sources/onlinefix.json"
+    },
+    {
+      "name": "Tiny Repacks",
+      "url": "https://hydralinks.pages.dev/sources/tinyrepacks.json"
+    },
+    {
+      "name": "Xatab",
+      "url": "https://hydralinks.pages.dev/sources/xatab.json"
+    },
+    {
+      "name": "RuTracker Categories",
+      "url": "https://raw.githubusercontent.com/KekitU/rutracker-hydra-links/main/all_categories.json"
+    }
   ]
 }
