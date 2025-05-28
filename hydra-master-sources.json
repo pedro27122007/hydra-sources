@@ -1,0 +1,14 @@
+{
+  "sources": [
+    "https://hydralinks.pages.dev/sources/atop-games.json",
+    "https://hydralinks.pages.dev/sources/steamrip.json",
+    "https://hydralinks.pages.dev/sources/dodi.json",
+    "https://hydralinks.pages.dev/sources/empress.json",
+    "https://hydralinks.pages.dev/sources/fitgirl.json",
+    "https://hydralinks.pages.dev/sources/kaoskrew.json",
+    "https://hydralinks.pages.dev/sources/onlinefix.json",
+    "https://hydralinks.pages.dev/sources/tinyrepacks.json",
+    "https://hydralinks.pages.dev/sources/xatab.json",
+    "https://raw.githubusercontent.com/KekitU/rutracker-hydra-links/main/all_categories.json"
+  ]
+}
