@@ -1,5 +1,5 @@
 {
-  "sources": [
+  "json_sources": [
     "https://hydralinks.pages.dev/sources/atop-games.json",
     "https://hydralinks.pages.dev/sources/steamrip.json",
     "https://hydralinks.pages.dev/sources/dodi.json",
